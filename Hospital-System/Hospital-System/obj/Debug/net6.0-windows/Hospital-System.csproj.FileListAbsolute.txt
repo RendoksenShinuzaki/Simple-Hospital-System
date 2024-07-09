@@ -1,0 +1,278 @@
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.exe
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.deps.json
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.runtimeconfig.json
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.AssemblyReference.cache
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.SignForm.resources
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.GenerateResource.cache
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfoInputs.cache
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfo.cs
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CoreCompileInputs.cache
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\refint\Hospital-System.dll
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.genruntimeconfig.cache
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\ref\Hospital-System.dll
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Properties.Resources.resources
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Dashboard.resources
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientForm.resources
+C:\Users\Raizo\source\repos\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientList.resources
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.exe
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.deps.json
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.runtimeconfig.json
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.AssemblyReference.cache
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Dashboard.resources
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientList.resources
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Properties.Resources.resources
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.GenerateResource.cache
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfo.cs
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CopyComplete
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\refint\Hospital-System.dll
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.genruntimeconfig.cache
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\ref\Hospital-System.dll
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.exe
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.deps.json
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.runtimeconfig.json
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.dll
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.pdb
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\DnsClient.dll
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\SharpCompress.dll
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Snappier.dll
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\yes\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.AssemblyReference.cache
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Dashboard.resources
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.SignForm.resources
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientForm.resources
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientList.resources
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Properties.Resources.resources
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.GenerateResource.cache
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfoInputs.cache
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfo.cs
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CoreCompileInputs.cache
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CopyComplete
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.dll
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\refint\Hospital-System.dll
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.pdb
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.genruntimeconfig.cache
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\ref\Hospital-System.dll
+D:\yes\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoctorList.resources
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.exe
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.deps.json
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.runtimeconfig.json
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.dll
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.pdb
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\DnsClient.dll
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\SharpCompress.dll
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Snappier.dll
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\ZstdSharp.dll
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+E:\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.AssemblyReference.cache
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Dashboard.resources
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientList.resources
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Properties.Resources.resources
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.GenerateResource.cache
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfoInputs.cache
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfo.cs
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CoreCompileInputs.cache
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CopyComplete
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.dll
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\refint\Hospital-System.dll
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.pdb
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.genruntimeconfig.cache
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\ref\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.exe
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.deps.json
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.runtimeconfig.json
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.AssemblyReference.cache
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Dashboard.resources
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientList.resources
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Properties.Resources.resources
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.GenerateResource.cache
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfoInputs.cache
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfo.cs
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CopyComplete
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\refint\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.genruntimeconfig.cache
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\ref\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoctorView.resources
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.LoginForm.resources
+C:\Users\Christian\Downloads\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientView.resources
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoctorView.resources
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.LoginForm.resources
+C:\Users\Christian\Documents\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientView.resources
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.exe
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.deps.json
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.runtimeconfig.json
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.AssemblyReference.cache
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Dashboard.resources
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.LoginForm.resources
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientList.resources
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientView.resources
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Properties.Resources.resources
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.GenerateResource.cache
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfoInputs.cache
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfo.cs
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CoreCompileInputs.cache
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CopyComplete
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\refint\Hospital-System.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.genruntimeconfig.cache
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\ref\Hospital-System.dll
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoctorFormView.resources
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoctorsList.resources
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientHistory.resources
+C:\Users\Raizo\Desktop\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoTForm.resources
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.exe
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.deps.json
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.runtimeconfig.json
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.AssemblyReference.cache
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Dashboard.resources
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoctorFormView.resources
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoctorsList.resources
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoTForm.resources
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.LoginForm.resources
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientHistory.resources
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientList.resources
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientView.resources
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Properties.Resources.resources
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.GenerateResource.cache
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfoInputs.cache
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfo.cs
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CopyComplete
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\refint\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.genruntimeconfig.cache
+C:\Users\Christian\Downloads\Hospital (Final)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\ref\Hospital-System.dll
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoctorFormView.resources
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoctorsList.resources
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoTForm.resources
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.LoginForm.resources
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientHistory.resources
+E:\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientView.resources
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.exe
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.deps.json
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.runtimeconfig.json
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.AssemblyReference.cache
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Dashboard.resources
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoctorFormView.resources
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoctorsList.resources
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.DoTForm.resources
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.LoginForm.resources
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientList.resources
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.PatientView.resources
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.Properties.Resources.resources
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.GenerateResource.cache
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfoInputs.cache
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.AssemblyInfo.cs
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.csproj.CopyComplete
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\refint\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.pdb
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital-System.genruntimeconfig.cache
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\ref\Hospital-System.dll
+C:\Users\Christian\Downloads\Hospital-System(NEW)\Hospital-System\Hospital-System\obj\Debug\net6.0-windows\Hospital_System.HistoryList.resources
